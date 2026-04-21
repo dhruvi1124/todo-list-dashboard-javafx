@@ -23,5 +23,4 @@ A JavaFX-based task management system developed for the Object Oriented Programm
 - Event Driven Programming
 
 ## Author
--Dhruvi Moradiya
--Yasvi Davra
+Dhruvi Moradiya and Yasvi Davra
